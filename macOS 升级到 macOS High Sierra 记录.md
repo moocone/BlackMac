@@ -34,7 +34,7 @@ Clover r4220：下载之后双击安装到原来的 EFI  所在磁盘分区即�
 
 ![macOS High Sierra_02](https://github.com/zzylovecode/BlackMac/blob/master/img/black%20apple%20boot.jpeg) 
 
-![屏幕快照 2018-10-10 下午3.41.56](/Users/zzy/Desktop/屏幕快照 2018-10-10 下午3.41.56.png)
+![屏幕快照 2018-10-10 下午3.41.56](https://github.com/zzylovecode/BlackMac/blob/master/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-10-10%20%E4%B8%8B%E5%8D%883.41.56.png)
 
 然后安装事先准备好的显卡驱动，以下的链接为教程网站
 
