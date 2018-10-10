@@ -33,8 +33,7 @@ Clover r4220：下载之后双击安装到原来的 EFI  所在磁盘分区即�
 
 
 ###成功！
-
-![black apple boot](/img/black apple boot.jpeg)
+https://github.com/zzylovecode/BlackMac/blob/master/img/black%20apple%20boot.jpeg     
 
 ![屏幕快照 2018-10-10 下午3.41.56](/Users/zzy/Desktop/屏幕快照 2018-10-10 下午3.41.56.png)
 
