@@ -1,6 +1,6 @@
 本来想下载XCode的，发现系统版本低无法安装：
 
-![macOS High Sierra](/img/macOS High Sierra.png)
+![macOS High Sierra](https://github.com/zzylovecode/BlackMac/blob/master/img/macOS%20High%20Sierra.png)
 
 
 
@@ -18,22 +18,21 @@ Clover r4220：下载之后双击安装到原来的 EFI  所在磁盘分区即�
 
 做好一切工作后开始升级10.13.6
 
-![macOS High Sierra_03](/img/macOS High Sierra_01.png)
+![macOS High Sierra_03](https://github.com/zzylovecode/BlackMac/blob/master/img/macOS%20High%20Sierra_01.png)
 
-![macOS High Sierra_02](/img/macOS High Sierra_02.png)
+![macOS High Sierra_02](https://github.com/zzylovecode/BlackMac/blob/master/img/macOS%20High%20Sierra_02.png)
 
 
 
-![macOS High Sierra_03](/img/macOS High Sierra_03.png)
+![macOS High Sierra_03](https://github.com/zzylovecode/BlackMac/blob/master/img/macOS%20High%20Sierra_03.png)
 
 然后就报错了，后来在某论坛上看到有人回复：“是更新版本跨度太大造成的”
 
 于是先安装10.13 重复上述操作
 
+### 成功
 
-
-###成功！
-![macOS High Sierra_02](https://github.com/zzylovecode/BlackMac/blob/master/img/black%20apple%20boot.jpeg)     
+![macOS High Sierra_02](https://github.com/zzylovecode/BlackMac/blob/master/img/black%20apple%20boot.jpeg) 
 
 ![屏幕快照 2018-10-10 下午3.41.56](/Users/zzy/Desktop/屏幕快照 2018-10-10 下午3.41.56.png)
 
